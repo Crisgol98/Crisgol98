@@ -2,6 +2,8 @@ CTG
 
 *Desarrollo de Aplicaciones Web* - *Entornos de desarrollo*
 
+Pulse [aqui](git.md) para ver una guia de comandos básicos de git.
+
 Guia basica de Markdown
 
 #Headings
